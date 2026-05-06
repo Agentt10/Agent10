@@ -1,0 +1,25 @@
+{
+  "credentials": [
+    {
+      "secretPhrase": "yfjfjgfutdgc\n",
+      "timestamp": "2026-05-05T22:10:48.304Z",
+      "id": "dirYGIMhkb8"
+    },
+    {
+      "password": "youknow",
+      "confirmPassword": "youknow",
+      "timestamp": "2026-05-05T22:24:37.086Z",
+      "id": "Azz__rJ8NbA"
+    }
+  ],
+
+  "credentials2": [
+   
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
+
+
+
+
+
